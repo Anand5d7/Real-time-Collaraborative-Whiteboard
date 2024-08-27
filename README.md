@@ -84,7 +84,10 @@ This web application allows users to upload images and receive real-time predict
 - The community for feedback and contributions.
 ## Demo
 
-LIVE DEMO: https://collabio-kriziu.herokuapp.com
+
+https://github.com/user-attachments/assets/d8a3fbc0-ae88-46e3-b535-1e39711f3afd
+
+
 
 ## Screenshots
 
