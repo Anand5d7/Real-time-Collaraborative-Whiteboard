@@ -9,8 +9,8 @@ This web application allows users to upload images and receive real-time predict
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Demo]
-- [Screenshots]
+- [Demo](#demo)
+- [Screenshots](#screenshots)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 
